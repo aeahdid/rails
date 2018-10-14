@@ -1,3 +1,5 @@
+rails tutorial ～第9章まで　※写経
+
 RubyGems install
 
 ```
