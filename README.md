@@ -1,4 +1,4 @@
-rails tutorial ～第9章まで　※写経
+起動の仕方
 
 RubyGems install
 
